@@ -32,4 +32,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/farron1227"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farron1227" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianbornas&show_icons=true&locale=en" alt="ianbornas" /></p>
+
