@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-frontend-goqc.onrender.com/](https://portfolio-frontend-goqc.onrender.com/)
 - 📫 How to reach me **igsbornas@mymail.mapua.edu.ph**
 - 📄 Know about my experiences [https://github.com/IanBornas/Resume.git](https://github.com/IanBornas/Resume.git)
-- ⚡ Fun fact **not much**
+
 
 <br>
 
