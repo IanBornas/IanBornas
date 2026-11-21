@@ -17,15 +17,17 @@
 
 <br>
 
-### <p align="left">Connect with me:</p>
+### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://stackoverflow.com/users/farron1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="farron1227" height="30" width="40" /></a>
-<a href="https://kaggle.com/farron1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="farron1227" height="30" width="40" /></a>
-<a href="https://fb.com/ian gabriel bornas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ian gabriel bornas" height="30" width="40" /></a>
-<a href="https://instagram.com/@farron1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@farron1227" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@farron1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@farron1227" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/farron1227)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/farron1227)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/search/top?q=ian%20gabriel%20bornas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/farron1227)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@farron1227)
+
+</div>
 
 <br>
 
@@ -57,8 +59,4 @@
 
 </div>
 
-### <p align="left">Support:</p>
 
-<p align="left">
-<a href="https://www.buymeacoffee.com/farron1227"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farron1227" /></a>
-</p>
