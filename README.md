@@ -5,14 +5,25 @@
   <img src="https://komarev.com/ghpvc/?username=ianbornas&label=Profile%20views&color=0e75b6&style=flat" alt="ianbornas" />
 </p>
 
+
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Site-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://portfolio-frontend-goqc.onrender.com/)
+[![Resume](https://img.shields.io/badge/Resume-View_Experiences-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IanBornas/Resume)
+[![University Email](https://img.shields.io/badge/Mapúa_Mail-igsbornas@mymail.mapua.edu.ph-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igsbornas@mymail.mapua.edu.ph)
+[![Personal Email](https://img.shields.io/badge/Gmail-prototypepro1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prototypepro1234@gmail.com)
+
+</div>
+
 <br>
 
-- 🌱 I'm currently learning **React, Vue, Next etc.**
-- 👯 I'm looking to collaborate on **Web Application Development**
-- 🤝 I'm looking for help with **Web Development**
-- 👨‍💻 All of my projects are available at [https://portfolio-frontend-goqc.onrender.com/](https://portfolio-frontend-goqc.onrender.com/)
-- 📫 How to reach me **igsbornas@mymail.mapua.edu.ph** / **prototypepro1234@gmail.com**
-- 📄 Know about my experiences [https://github.com/IanBornas/Resume.git](https://github.com/IanBornas/Resume.git)
+### 👨‍💻 About Me
+
+- 🌱 **Currently Building & Learning:** Full-stack web applications with **React, Vue 3, Next.js, and Spring Boot**
+- 👯 **Open to Collaborate On:** Full-Stack Web Applications, Backend APIs, and Systems Projects
+- 🎯 **Career Focus:** Seeking **Entry-Level Software Developer** opportunities
+- 🎓 **Education:** Mapúa University
 
 
 <br>
@@ -29,7 +40,7 @@
 
 </div>
 
-<br>
+
 
 ### 🛠️ Tech Stack & Tools
 
