@@ -11,7 +11,7 @@
 - 👯 I'm looking to collaborate on **Web Application Development**
 - 🤝 I'm looking for help with **Web Development**
 - 👨‍💻 All of my projects are available at [https://portfolio-frontend-goqc.onrender.com/](https://portfolio-frontend-goqc.onrender.com/)
-- 📫 How to reach me **igsbornas@mymail.mapua.edu.ph**
+- 📫 How to reach me **igsbornas@mymail.mapua.edu.ph** / **prototypepro1234@gmail.com**
 - 📄 Know about my experiences [https://github.com/IanBornas/Resume.git](https://github.com/IanBornas/Resume.git)
 
 
