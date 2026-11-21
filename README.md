@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Gabriel S. Bornas</h1>
-<h3 align="center">A passionate Developer from Mapua University</h3>
+<h3 align="center">A  Developer from Mapua University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ianbornas&label=Profile%20views&color=0e75b6&style=flat" alt="ianbornas" />
