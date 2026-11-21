@@ -76,14 +76,13 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🏢 Employee Management System</h3>
+      <h3>HRTrack Employee Management System</h3>
       <p>Full-stack CRUD web application featuring responsive UI components and real-time cloud persistence.</p>
       <p><strong>Stack:</strong> Vue 3, Vite, Node.js, Express, Firebase</p>
-      <a href="https://crud-swart-xi.vercel.app"><strong>🌐 Live Demo</strong></a> • 
       <a href="https://github.com/IanBornas/Crud-Project-with-Vue-Node-Express"><strong>📂 Source</strong></a>
     </td>
     <td width="33%" valign="top">
-      <h3>🤖 ChatBot</h3>
+      <h3> ChatBot</h3>
       <p>Interactive conversational application designed to automate user queries and streamline real-time responses.</p>
       <p><strong>Stack:</strong> JavaScript / Python, APIs</p>
       <a href="https://github.com/IanBornas/ChatBot"><strong>📂 Source Code</strong></a>
